@@ -9,3 +9,20 @@
 - [Firebase]()
 
 
+
+```bash
+# Verificar os devices que estão rodando
+$ adb devices
+
+# Rodar o Metro
+$ npm start
+
+# Rodar o App 
+$ npx react-native run-android
+
+```
+
+
+
+
+
