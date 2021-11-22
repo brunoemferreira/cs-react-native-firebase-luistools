@@ -28,6 +28,6 @@ const styles = StyleSheet.create({
   },
   savBottom: {
     flex: 1,
-    backgroundColor: '#f2c',
+    backgroundColor: '#5CA4FF',
   },
 });

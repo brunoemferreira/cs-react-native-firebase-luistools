@@ -3,7 +3,7 @@ import RoutesPublic from './routes.public';
 import RoutesSecure from './routes.secure';
 
 const Routes: React.FC = () => {
-  const [signed, setSigned] = useState(true);
+  const [signed, setSigned] = useState(false);
 
   return signed ? <RoutesSecure /> : <RoutesPublic />;
 };

@@ -14,7 +14,7 @@
   - [Firebase Realtime Database](https://firebase.google.com/docs/database)
   - [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics)
   - [Firebase Analytics](https://firebase.google.com/docs/analytics)
-  - [Firebase Cloud Functions][(](https://firebase.google.com/docs/functions)) 
+  - [Firebase Cloud Functions](https://firebase.google.com/docs/functions) 
 
 
 
