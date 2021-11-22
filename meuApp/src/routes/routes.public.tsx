@@ -7,7 +7,7 @@ const RoutesPublic: React.FC = () => {
       <SafeAreaView style={styles.savTop} />
       <SafeAreaView style={styles.savBottom}>
         <View style={styles.container}>
-          <Text>Usuário autenticado. :)</Text>
+          <Text>Usuário Não autenticado. :)</Text>
         </View>
       </SafeAreaView>
     </>
