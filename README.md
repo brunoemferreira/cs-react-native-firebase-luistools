@@ -6,7 +6,15 @@
 - [JavaScript]()
 - [TypeScript]()
 - [React Native]()
+- [React Navigation]()
+- [React Native Paper]()
+- [Firebase SDK]()
 - [Firebase]()
+  - [Firebase Authentication]()
+  - [Firebase Realtime Database]()
+  - [Firebase Crashlytics]()
+  - [Firebase analytics]()
+  - [Firebase]() 
 
 
 
@@ -17,7 +25,7 @@ $ adb devices
 # Rodar o Metro
 $ npm start
 
-# Rodar o App 
+# Fazer o Build
 $ npx react-native run-android
 
 ```
